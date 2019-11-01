@@ -13,3 +13,5 @@ Data Mining
 ### HW1
 
 - [HW1 Decision Tree](https://github.com/smile22091/my_learning_note/blob/master/HW1_Decision_Tree/Notebook/Adult.ipynb)
+
+- [HW1 Decision Tree.html](https://nbviewer.jupyter.org/github/smile22091/my_learning_note/blob/master/HW1_Decision_Tree/Notebook/Adult.ipynb)
