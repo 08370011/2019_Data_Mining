@@ -14,4 +14,11 @@ Data Mining
 
 - [HW1 Decision Tree](https://github.com/smile22091/2019_Data_Mining/blob/master/HW1_Decision_Tree/notebook/Adult.ipynb)
 
-- [HW1 Decision Tree.html](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW1_Decision_Tree/notebook/Adult.ipynb)
+- [HW1 Decision Tree Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW1_Decision_Tree/notebook/Adult.ipynb)
+
+
+### HW2
+- [HW2 Apriori](https://github.com/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori.ipynb)
+
+
+- [HW2 Apriori Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori.ipynb)
