@@ -20,9 +20,9 @@ Data Mining
 
 ## HW2 Apriori
 
-- [HW2 Apriori](https://github.com/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori.ipynb)
+- [HW2 Apriori](https://github.com/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori_Algorithm.ipynb)
 
-- [HW2 Apriori Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori.ipynb)
+- [HW2 Apriori Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori_Algorithm.ipynb)
 
 ### Apriori Note
 
