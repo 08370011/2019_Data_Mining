@@ -1,4 +1,4 @@
-# My learning note
+# 2019_Data_Mining
 
 Data Mining
 
@@ -24,7 +24,7 @@ Data Mining
 
 - [HW2 Apriori Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW2_Apriori_Algorithm/notebook/Apriori.ipynb)
 
-### Note
+### Apriori Note
 
 #### 關聯規則
 在資料探勘的演講或是課程上，講者一定會提到「啤酒尿布」這樣的案例。估且不論這是不是江湖謠傳，這的確是一個經典的資料探勘算法 - **關聯規則**（Association rule）。因為常用在商品資料上，所以也被稱為**購物籃分析**（Basket data analysis）。
