@@ -31,9 +31,9 @@ Data Mining
 - [HW3 PCA Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW3_PCA/notebook/pca_v2.ipynb)
 
 ### HW4 Text Visualization
-- [HW4 Text Visualization](https://github.com/smile22091/2019_Data_Mining/blob/master/HW4_Text_Visualiztion/notebook/Text_Visualization.ipynb)
+- [HW4 Text Visualization](https://github.com/smile22091/2019_Data_Mining/blob/master/HW4_Text_Visualiztion/notebook/Text_Visualization_v2.ipynb)
 
-- [HW4 Text Visualization Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW4_Text_Visualiztion/notebook/Text_Visualization.ipynb)
+- [HW4 Text Visualization Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW4_Text_Visualiztion/notebook/Text_Visualization_v2.ipynb)
 
 
 ## AI Conference
