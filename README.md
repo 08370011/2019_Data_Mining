@@ -16,6 +16,7 @@ Data Mining - 蔡芸琤老師
 
 - HW5：[Politics](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW5_Politics/notebook/Politics.ipynb)
 
+- HW6：[Paper](https://hackmd.io/@smile22091/rk-JLPP0B)
 
 - [AI Conference Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/AI_Conference/notebooks/AI_Conference.ipynb)
 
