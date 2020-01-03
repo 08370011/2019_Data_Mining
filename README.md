@@ -21,6 +21,10 @@ Data Mining - 蔡芸琤老師
 - [AI Conference Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/AI_Conference/notebooks/AI_Conference.ipynb)
 
 ---
+## Final Project
+[US Labor](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/Final_Project/Final_Project.ipynb)
+
+---
 
 ## About Me
 ### 林念頤 Rebecca, Lin
