@@ -16,13 +16,24 @@ Data Mining - 蔡芸琤老師
 
 - HW5：[Politics](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/HW5_Politics/notebook/Politics.ipynb)
 
-- HW6：[Paper](https://hackmd.io/@smile22091/rk-JLPP0B)
+- HW6：[Time Series Paper](https://hackmd.io/@smile22091/rk-JLPP0B)
 
 - [AI Conference Nbviewer](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/AI_Conference/notebooks/AI_Conference.ipynb)
 
 ---
 ## Final Project
-[US Labor](https://nbviewer.jupyter.org/github/smile22091/2019_Data_Mining/blob/master/Final_Project/Final_Project.ipynb)
+### 影片連結
+[![Audi R8](http://img.youtube.com/vi/g7MO7pmeTFk/0.jpg)](https://www.youtube.com/watch?v=g7MO7pmeTFk)
+
+### 程式碼Demo
+[![Audi R8](http://img.youtube.com/vi/mWh4Nqv01XA/0.jpg)](https://www.youtube.com/watch?v= mWh4Nqv01XA)
+
+### 完整資料（可互動圖表）
+[https://hackmd.io/@smile22091/r1xCemJx8](https://hackmd.io/@smile22091/r1xCemJx8)
+
+### 網站
+[http://job.datamining.best/](http://job.datamining.best/)
+
 
 ---
 
@@ -33,4 +44,11 @@ Data Mining - 蔡芸琤老師
 - **Bachelor**, Department of Economics, Tamkang University, 2019/06
 
 ## Work Experience
-Data Analytics Intern, Taiwan External Trade Development Council, 2019/11 to
+### Taiwan External Trade Development Council
+- Data Analytics Intern
+- 2019/11 ~ 2019/12
+
+### Nomura Fund
+- Data Analytics Intern
+- 2020/01 ~ 2020/06
+
