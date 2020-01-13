@@ -21,8 +21,7 @@
 [http://job.datamining.best/](http://job.datamining.best/)
 
 ### 影片連結
-[![Audi R8](http://img.youtube.com/vi/g7MO7pmeTFk/0.jpg)](https://www.youtube.com/watch?v=g7MO7pmeTFk)
+[![Audi R8](http://img.youtube.com/vi/_Z4_r0WTcHE/0.jpg)](https://www.youtube.com/watch?v=_Z4_r0WTcHE)
 
 ### 程式碼Demo
-[![Audi R8](http://img.youtube.com/vi/mWh4Nqv01XA/0.jpg)](https://www.youtube.com/watch?v=mWh4Nqv01XA)
-
+[![Audi R8](http://img.youtube.com/vi/8JvVgj1dSVQ/0.jpg)](https://www.youtube.com/watch?v=8JvVgj1dSVQ)
