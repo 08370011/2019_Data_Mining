@@ -31,7 +31,7 @@ Data Mining - 蔡芸琤老師
 [https://hackmd.io/@smile22091/r1xCemJx8](https://hackmd.io/@smile22091/r1xCemJx8)
 
 ### 網站
-[http://job.datamining.best/](http://job.datamining.best/)
+[https://smile22091.github.io/2019_Data_Mining/Final_Project/web/](https://smile22091.github.io/2019_Data_Mining/Final_Project/web/)
 
 ### 影片連結
 [![Audi R8](http://img.youtube.com/vi/_Z4_r0WTcHE/0.jpg)](https://www.youtube.com/watch?v=_Z4_r0WTcHE)
