@@ -44,8 +44,8 @@ Data Mining - 蔡芸琤老師
 ## About Me
 ### 林念頤 Rebecca, Lin
 
-- **Master**, Department of Big-Data Management, Soochow University,
-- **Bachelor**, Department of Economics, Tamkang University, 2019/06
+- **Master**, Department of Big-Data Management, Soochow University, 2019/09-2021/09
+- **Bachelor**, Department of Economics, Tamkang University, 2015/06-2019/06
 
 ## Work Experience
 ### Taiwan External Trade Development Council
