@@ -48,11 +48,13 @@ Data Mining - 蔡芸琤老師
 - **Bachelor**, Department of Economics, Tamkang University, 2015/06-2019/06
 
 ## Work Experience
+### Nomura Fund
+- Data Analytics Intern
+- 2020/01 ~ 2020/06
+
 ### Taiwan External Trade Development Council
 - Data Analytics Intern
 - 2019/11 ~ 2019/12
 
-### Nomura Fund
-- Data Analytics Intern
-- 2020/01 ~ 2020/06
+
 
